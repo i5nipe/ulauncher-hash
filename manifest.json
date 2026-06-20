@@ -48,6 +48,12 @@
             "type": "keyword",
             "name": "sha512",
             "default_value": "sha512"
+        },
+        {
+            "id": "ntlm",
+            "type": "keyword",
+            "name": "ntlm",
+            "default_value": "ntlm"
         }
     ]
 }
