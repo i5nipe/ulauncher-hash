@@ -38,6 +38,11 @@
       "name": "sha512",
       "keyword": "sha512",
       "description": "Show sha512 checksum for an input"
+    },
+    "ntlm": {
+      "name": "ntlm",
+      "keyword": "ntlm",
+      "description": "Show the NTLM (NT) hash for an input password"
     }
   }
 }
